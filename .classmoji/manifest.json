@@ -1,0 +1,20 @@
+{
+  "repositories": {
+    "homework1": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "homework1": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "razvoj-mobilnih-aplikacija-i-servisa-2026"
+    ],
+    "slides": []
+  }
+}
