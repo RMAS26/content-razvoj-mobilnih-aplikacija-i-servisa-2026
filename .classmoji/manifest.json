@@ -9,6 +9,11 @@
           "slides": []
         }
       }
+    },
+    "jetpack-compose": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
     }
   },
   "general": {
@@ -18,9 +23,9 @@
     "slides": [
       "week-3-lecture",
       "week-3-lecture-english-version",
-      "week-2-lecture",
+      "week-1-lecture-english-version",
       "week-2-lecture-english-version",
-      "week-1-lecture-english-version"
+      "week-2-lecture"
     ]
   }
 }
